@@ -1,2 +1,3 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine(DateTime.Now);
+Console.WriteLine("IS-23B Karsakov R. E.");
